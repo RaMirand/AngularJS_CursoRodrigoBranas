@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "nome": "Bruno",
+        "telefone": "9999-2222",
+        "data": "2023-06-07T10:00:00.000Z",
+        "operadora": {
+            "nome": "Oi",
+            "codigo": 14,
+            "categoria": "Celular",
+            "preco": 1
+        }
+    },
+    {
+        "id": 2,
+        "nome": "Sandra",
+        "telefone": "9999-3333",
+        "data": "2023-05-07T11:00:00.000Z",
+        "operadora": {
+            "nome": "Vivo",
+            "codigo": 15,
+            "categoria": "Celular",
+            "preco": 3
+        }
+    },
+    {
+        "id": 3,
+        "nome": "Mariana",
+        "telefone": "9999-4444",
+        "data": "2023-06-07T12:00:00.000Z",
+        "operadora": {
+            "nome": "Tim",
+            "codigo": 41,
+            "categoria": "Celular",
+            "preco": 2
+        }
+    },
+    {
+        "id": 4,
+        "nome": "Ricardo Miranda",
+        "telefone": "9999-8888",
+        "data": null,
+        "operadora": {
+            "nome": "Claro",
+            "codigo": 21,
+            "categoria": "Celular",
+            "preco": 2
+        }
+    },
+    {
+        "id": 7,
+        "nome": "Teste",
+        "telefone": "9999-5478",
+        "data": null,
+        "operadora": {
+            "nome": "GVT",
+            "codigo": 25,
+            "categoria": "Fixo",
+            "preco": 2
+        },
+        "serial": ">!KDY'Y9N'"
+    },
+    {
+        "id": 8,
+        "nome": "Deu Errado Nome 1",
+        "telefone": "4789-9658",
+        "data": null,
+        "operadora": {
+            "nome": "Tim",
+            "codigo": 41,
+            "categoria": "Celular",
+            "preco": 2
+        },
+        "serial": "OW53W$^L\"_"
+    },
+    {
+        "id": 9,
+        "nome": "Teste Nome",
+        "telefone": "1234-5698",
+        "data": "2021-06-03T12:00:00.000Z",
+        "operadora": {
+            "nome": "Claro",
+            "codigo": 21,
+            "categoria": "Celular",
+            "preco": 2
+        },
+        "serial": "TI[7_3P0E5"
+    },
+    {
+        "nome": "Teste Nome 4",
+        "telefone": "7894-5632",
+        "data": null,
+        "operadora": {
+            "nome": "Claro",
+            "codigo": 21,
+            "categoria": "Celular",
+            "preco": 2
+        },
+        "serial": "9\\)E,4>D_\"",
+        "id": 10
+    },
+    {
+        "nome": "Teste Nome 5",
+        "telefone": "2541-6321",
+        "data": null,
+        "operadora": {
+            "nome": "Tim",
+            "codigo": 41,
+            "categoria": "Celular",
+            "preco": 2
+        },
+        "serial": "(X\\*7LV38 ",
+        "id": 11
+    },
+    {
+        "nome": "Deu Errado Nome 2",
+        "telefone": "2589-7412",
+        "data": null,
+        "operadora": {
+            "nome": "GVT",
+            "codigo": 25,
+            "categoria": "Fixo",
+            "preco": 2
+        },
+        "serial": "RP-?+BCU*^",
+        "id": 12
+    },
+    {
+        "nome": "Teste Id Numero",
+        "telefone": "2589-6541",
+        "data": null,
+        "operadora": {
+            "nome": "Claro",
+            "codigo": 21,
+            "categoria": "Celular",
+            "preco": 2
+        },
+        "serial": "'LD1F<^=%Z",
+        "id": 13
+    },
+    {
+        "nome": "Teste Nome Id",
+        "telefone": "2589-6753",
+        "data": null,
+        "operadora": {
+            "nome": "Vivo",
+            "codigo": 15,
+            "categoria": "Celular",
+            "preco": 3
+        },
+        "serial": "N2UP1,'962",
+        "id": 15
+    },
+    {
+        "nome": "Teste Ordem Id",
+        "telefone": "1478-9632",
+        "data": null,
+        "operadora": {
+            "nome": "Claro",
+            "codigo": 21,
+            "categoria": "Celular",
+            "preco": 2
+        },
+        "serial": "),Z(LC^1]\\",
+        "id": 16
+    }
+]
